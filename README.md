@@ -17,8 +17,8 @@ This system allows users to input student information and store it locally using
 
 ## 🖥️ System Preview
 
-![System Screenshot](<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/9daabe58-6f56-4b31-8bd6-02fd740e9c4c" />
-)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/9daabe58-6f56-4b31-8bd6-02fd740e9c4c" />
+
 
 ---
 
