@@ -1,28 +1,28 @@
-# 🎓 Enrollment System (Java - NetBeans)
+#  Enrollment System (Java - NetBeans)
 
 A simple and functional **Enrollment System** built using Java Swing in NetBeans.  
 This system allows users to input student information and store it locally using a file-based system (like local storage).
 
 ---
 
-## 🚀 Features
+##  Features
 
-- ✅ Add Student (Name, Age, Course)
-- ✅ Display Students in Table
-- ✅ Auto Save Data (students.txt)
-- ✅ Auto Load Data on Startup
-- ✅ Simple and Clean UI (Dark Theme)
+-  Add Student (Name, Age, Course)
+-  Display Students in Table
+-  Auto Save Data (students.txt)
+-  Auto Load Data on Startup
+-  Simple and Clean UI (Dark Theme)
 
 ---
 
-## 🖥️ System Preview
+##  System Preview
 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/9daabe58-6f56-4b31-8bd6-02fd740e9c4c" />
 
 
 ---
 
-## 🛠️ Built With
+##  Built With
 
 - Java (Swing GUI)
 - NetBeans IDE
@@ -30,7 +30,7 @@ This system allows users to input student information and store it locally using
 
 ---
 
-## 📥 How to Download and Run
+##  How to Download and Run
 
 ### Step 1: Download the Project
 
